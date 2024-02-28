@@ -4,9 +4,6 @@ background-color:#ff9100;
 
 h1{ 
     font-size: 40px; 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold; 
-    color: #00ff6a;
 } 
 
 li{ 
@@ -17,4 +14,10 @@ li{
 p{ 
     font-size: 18px; 
     color: #3b20b4;
+} 
+ 
+h2,h1{ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-weight: bold; 
+    color: #00ff6a;
 }
