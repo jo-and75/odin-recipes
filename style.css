@@ -6,21 +6,27 @@ html{
 *::before, 
 *::after{ 
     box-sizing: border-box;
-} 
+}  
+
+
 
 
 
 body { 
-background-color:#ff9100;
+background-color:#ff9100; 
+
 } 
 
 h1{ 
-    font-size: 40px; 
+    font-size: 40px;  
+    
+    margin: 40px;
 } 
 
 li{ 
     font-size: 18px; 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    
 } 
 
 p{ 
