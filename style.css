@@ -10,8 +10,6 @@ html{
 
 
 
-
-
 body { 
 background-color:#ff9100; 
 
@@ -19,8 +17,12 @@ background-color:#ff9100;
 
 h1{ 
     font-size: 40px;  
-    
-    margin: 40px;
+    margin: auto; 
+    border: dotted; 
+    border-color: #3b20b4; 
+    width: 300px; 
+    height: auto; 
+    padding: 20px;
 } 
 
 li{ 
