@@ -9,26 +9,13 @@ html{
 }  
 
 
-
-body { 
-background-color:#ff9100; 
-
-} 
-
 h1{ 
     font-size: 40px;  
-    margin: auto; 
-    border: dotted; 
-    border-color: #3b20b4; 
-    width: 300px; 
-    height: auto; 
-    padding: 20px;
 } 
 
 li{ 
-    font-size: 18px; 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
     
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 } 
 
 p{ 
@@ -41,3 +28,29 @@ h2,h1{
     font-weight: bold; 
     color: #00ff6a;
 }
+
+body { 
+background-color:#ff9100; 
+} 
+
+.h1-homepage, 
+.list-mainpage{ 
+    margin: auto; 
+    border: none; 
+    border-color: #3b20b4; 
+    height: auto; 
+    padding: 15px; 
+}
+
+.h1-homepage{ 
+     width: 450px; 
+    font-size: 70px;   
+    padding-right: 70px;
+}  
+
+.list-mainpage{  
+    width: 400px;    
+    font-size: 30px;  
+}
+
+
